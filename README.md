@@ -1,8 +1,8 @@
-### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"
 
-- 😄 Eu sou o Lucas, um desenvolvedor front-end que reside no Brasil 🇧🇷 , apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música!
+- Eu sou o Lucas 😄, um desenvolvedor front-end que reside no Brasil :brasil: , apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música!
 
-- 🔭 Eu tenho 2 anos de experiência na indústria do software, onde fiz diferentes tipos de trabalhos envolvendo freelancing e ajudei com o desenvolvimento de software numa equipe de robótica.
+- Eu tenho 2 anos de experiência na indústria do software 🖥️, onde fiz diferentes tipos de trabalhos envolvendo freelancing e ajudei com o desenvolvimento de software numa equipe de robótica.
 
 - LinkedIn: https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/
 
