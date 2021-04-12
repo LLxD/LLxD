@@ -1,6 +1,6 @@
 <h1> Olá, prazer, eu sou o <strong style="color:#41ded3">Lucas!</strong>  😄 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<img src="https://avatars.githubusercontent.com/u/48529975?v=4" style="margin:10px;border-radius:50%; width:160px; float:right">
+<img align="right" width="160" src="https://avatars.githubusercontent.com/u/48529975?v=4">
 
 <p> Sou um desenvolvedor front-end que reside no Brasil, apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música! </p>
 <hr>
