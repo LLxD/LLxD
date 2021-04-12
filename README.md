@@ -8,11 +8,5 @@
 <hr>
 
 
-<div style="display:flex; justify-content:center">
-<a href="https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/">
-<button style="padding:10px; cursor:pointer;font-size:16px; margin:0px 5px;">LinkedIn 💼</button>
-</a>
-<a href="https://www.behance.net/lucaslima58">
-<button style="padding:10px; cursor:pointer;font-size:16px; margin:0px 5px;"">Behance 🎨</button>
-</a>
-</div>
+[LinkedIn 💼](https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/)
+[Behance 🎨](https://www.behance.net/lucaslima58)
