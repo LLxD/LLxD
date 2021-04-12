@@ -1,6 +1,6 @@
 <h1> Olá, prazer, eu sou o <strong style="color:#41ded3">Lucas!</strong>  😄 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<img align="right" width="260" src="https://pbs.twimg.com/profile_images/812848587423903744/ae6a1UQg_400x400.jpg">
+<img align="right" width="300" src="https://i.pinimg.com/originals/d9/bb/49/d9bb49ceafc6488856d774d62fdfa478.jpg">
 
 <p> Sou um desenvolvedor front-end que reside no Brasil, apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música!</p>
 Além disso, sou mestre de RPG de mesa, onde faço meu melhor para guiar os jogadores numa aventura incrível :D
