@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"
+
+- 😄 Eu sou o Lucas, um desenvolvedor front-end que reside no Brasil 🇧🇷 , apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música!
+
+- 🔭 Eu tenho 2 anos de experiência na indústria do software, onde fiz diferentes tipos de trabalhos envolvendo freelancing e ajudei com o desenvolvimento de software numa equipe de robótica.
+
+- LinkedIn: https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/
+
+- Behance: https://www.behance.net/lucaslima58
+
 
 <!--
 **LLxD/LLxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
