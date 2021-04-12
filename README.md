@@ -1,25 +1,18 @@
-### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1> Olá, prazer, eu sou o <strong style="color:#41ded3">Lucas!</strong>  😄 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-- Eu sou o Lucas 😄, um desenvolvedor front-end que reside no Brasil :brazil: , apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música!
+<img src="https://avatars.githubusercontent.com/u/48529975?v=4" style="margin:10px;border-radius:50%; width:160px; float:right">
 
-- Eu tenho 2 anos de experiência na indústria do software 🖥️, onde fiz diferentes tipos de trabalhos envolvendo freelancing e ajudei com o desenvolvimento de software numa equipe de robótica.
+<p> Sou um desenvolvedor front-end que reside no Brasil, apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música! </p>
+<hr>
+<p> Eu tenho 2 anos de experiência na indústria do software 🖥️, onde fiz diferentes tipos de trabalhos envolvendo freelancing e ajudei com o desenvolvimento de software numa equipe de robótica.</p>
+<hr>
 
-- LinkedIn: https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/
 
-- Behance: https://www.behance.net/lucaslima58
-
-
-<!--
-**LLxD/LLxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:flex; justify-content:center">
+<a href="https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/">
+<button style="padding:10px; cursor:pointer;font-size:16px; margin:0px 5px;">LinkedIn 💼</button>
+</a>
+<a href="https://www.behance.net/lucaslima58">
+<button style="padding:10px; cursor:pointer;font-size:16px; margin:0px 5px;"">Behance 🎨</button>
+</a>
+</div>
