@@ -11,6 +11,14 @@ Além disso, sou mestre de RPG de mesa, onde faço meu melhor para guiar os joga
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLxD&hide=stars,issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-[LinkedIn 💼](https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/)
+<center>
+
+[Portfolio 👨‍🎓](http://llxd.tk/)&nbsp;
+[LinkedIn 💼](https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/)&nbsp;
 [Behance 🎨](https://www.behance.net/lucaslima58)
+
+</center>
+
+---
