@@ -22,3 +22,5 @@ Além disso, sou mestre de RPG de mesa, onde faço meu melhor para guiar os joga
 </center>
 
 ---
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
