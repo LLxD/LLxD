@@ -1,6 +1,6 @@
-<h1> Olá, prazer, eu sou o <strong style="color:#41ded3">Lucas!</strong>  😄 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1> Olá, prazer, eu sou o <strong style="color:#41ded3">Lucas!</strong>  😄</h1>
 
-<img style="padding:10px" align="right" width="280" src="https://i.pinimg.com/originals/d9/bb/49/d9bb49ceafc6488856d774d62fdfa478.jpg">
+<img style="padding:10px" align="right" width="220" src="https://i.pinimg.com/originals/d9/bb/49/d9bb49ceafc6488856d774d62fdfa478.jpg">
 
 <p> Sou um desenvolvedor front-end que reside no Brasil, apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música!</p>
 Além disso, sou mestre de RPG de mesa, onde faço meu melhor para guiar os jogadores numa aventura incrível :D
@@ -15,7 +15,7 @@ Além disso, sou mestre de RPG de mesa, onde faço meu melhor para guiar os joga
 
 <center>
 
-[Portfolio 👨‍🎓](http://llxd.tk/)&nbsp;
+[Portfolio 👨‍🎓](http://llxd.ml/)&nbsp;
 [LinkedIn 💼](https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/)&nbsp;
 [Behance 🎨](https://www.behance.net/lucaslima58)
 
