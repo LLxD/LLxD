@@ -1,11 +1,11 @@
-<h1> Olá, prazer, eu sou o <strong style="color:#41ded3">Lucas!</strong>  😄</h1>
+<h1> Hello, nice to meet you, I'm <strong style="color:#41ded3">Lucas!</strong>  😄</h1>
 
 <img style="padding:10px" align="right" width="220" src="https://i.pinimg.com/originals/d9/bb/49/d9bb49ceafc6488856d774d62fdfa478.jpg">
 
-<p> Sou um desenvolvedor front-end que reside no Brasil, apaixonado por UX/UI, JavaScript e minhas duas formas de arte favoritas: design e música!</p>
-Além disso, sou mestre de RPG de mesa, onde faço meu melhor para guiar os jogadores numa aventura incrível :D
+<p> I'm a front-end developer based in Brazil, passionate about UX/UI, JavaScript, and my two favorite forms of art: design and music!</p>
+Additionally, I'm a tabletop RPG master, where I do my best to guide players through an amazing adventure 🎲
 <hr>
-<p> Eu tenho 2 anos de experiência na indústria do software 🖥️, onde fiz diferentes tipos de trabalhos envolvendo freelancing e ajudei com o desenvolvimento de software numa equipe de robótica.</p>
+<p> I have 4+ years of experience in the software industry 🖥️, where I've undertaken various freelance projects and assisted in software development within a robotics team.</p>
 <hr>
 
 
@@ -15,7 +15,7 @@ Além disso, sou mestre de RPG de mesa, onde faço meu melhor para guiar os joga
 
 <center>
 
-[Portfolio 👨‍🎓](http://llxd.eu/)&nbsp;
+[Portfolio 👨‍🎓](https://llxd.eu/)&nbsp;
 [LinkedIn 💼](https://www.linkedin.com/in/lucas-lima-do-nascimento-a8819018a/)&nbsp;
 [Behance 🎨](https://www.behance.net/lucaslima58)
 
