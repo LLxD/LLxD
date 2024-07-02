@@ -5,7 +5,7 @@
 <p> I'm a front-end developer based in Brazil, passionate about UX/UI, JavaScript, and my two favorite forms of art: design and music!</p>
 Additionally, I'm a tabletop RPG master, where I do my best to guide players through an amazing adventure 🎲
 <hr>
-<p> I have 4+ years of experience in the software industry 🖥️, where I've undertaken various freelance projects and assisted in software development within a robotics team.</p>
+I have 4+ years of experience in the software industry, where I have undertaken various types of work including freelancing, and software development in a robotics team, and currently hold a position as a Software Engineer at PicPay, where I play a pivotal role in designing and implementing responsive user interfaces, helping to create the front-end architecture, contributing to innovative feature development, and maintaining high-quality code standards.
 <hr>
 
 
